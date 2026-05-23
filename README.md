@@ -1,5 +1,12 @@
 # OpenSoundScapeSystem (OSSS)
 
+![GitHub top language](https://img.shields.io/github/languages/top/development7777/OpenSoundScapeSystem)
+![GitHub License](https://img.shields.io/github/license/development7777/OpenSoundScapeSystem)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/development7777/OpenSoundScapeSystem)
+![GitHub last commit](https://img.shields.io/github/last-commit/development7777/OpenSoundScapeSystem)
+![GitHub Release](https://img.shields.io/github/v/release/development7777/OpenSoundScapeSystem)
+![GitHub Repo stars](https://img.shields.io/github/stars/development7777/OpenSoundScapeSystem)
+
 ## 概要
 
 git switch -c **OpenSoundScapeSystem (OSSS)** は、EXPO2025にインスパイアされた、オープンソースのサウンドスケープシステムです。サーバーでリアルタイムに音声を生成し、クライアントの再生環境（スピーカー）にストリーミングすることで、様々な場所に独自のサウンドスケープを展開することができます。
