@@ -1,1 +1,1 @@
-# OpenSoundScapeSystem
+# OpenSoundScapeSystem (OSSS)
