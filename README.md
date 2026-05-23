@@ -1,1 +1,33 @@
-# OpenSoundScapeSystem
+# OpenSoundScapeSystem (OSSS)
+
+![GitHub top language](https://img.shields.io/github/languages/top/development7777/OpenSoundScapeSystem)
+![GitHub License](https://img.shields.io/github/license/development7777/OpenSoundScapeSystem)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/development7777/OpenSoundScapeSystem)
+![GitHub last commit](https://img.shields.io/github/last-commit/development7777/OpenSoundScapeSystem)
+![GitHub Release](https://img.shields.io/github/v/release/development7777/OpenSoundScapeSystem)
+![GitHub Repo stars](https://img.shields.io/github/stars/development7777/OpenSoundScapeSystem)
+
+## 概要
+
+git switch -c **OpenSoundScapeSystem (OSSS)** は、EXPO2025にインスパイアされた、オープンソースのサウンドスケープシステムです。サーバーでリアルタイムに音声を生成し、クライアントの再生環境（スピーカー）にストリーミングすることで、様々な場所に独自のサウンドスケープを展開することができます。
+
+## 特徴
+
+- **リアルタイム音声生成**: サーバーで音声を時刻や天候条件などに応じてリアルタイムに音響素材をミックスし、クライアント（スピーカー）にストリーミングします。
+- **WebRTC対応**: クライアントはWebRTCを使用してサーバーから音声を受信し、低遅延で再生します。
+- **Web UI**: 管理者はWeb UIを通じてサウンドスケープの設定や管理を行うことができます。
+- **自動音声合成放送**: トリガー時に音声合成を使用した放送を行うことができます。
+- **非常放送**: 緊急時には音声合成での非常放送や、他システムの割り込み放送が可能です。
+
+## ライセンス
+
+このプロジェクトは **GNU Affero General Public License v3.0 (AGPL-3.0)** のもとで公開されています。
+
+| 項目 | 概要 |
+| - | - |
+| **ライセンス形態** | GNU Affero General Public License v3.0 (AGPL-3.0) |
+| **商用利用** | 許可（ただし、ソースコード公開義務が適用されます） |
+| **ネットワーク提供 (SaaS)** | **ソースコード公開義務あり**（Webサービス等として提供する場合も含みます） |
+| **ソースコードの開示** | 本ソフトウェア、またはその改変物を利用・提供する場合はソースコードの公開が必要です |
+
+詳細なライセンス条項については、[LICENSE](./LICENSE) ファイル、または [GNU公式ページ](https://gnu.org) をご確認ください。
